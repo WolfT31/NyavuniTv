@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": "00c9b977ab28b191",
+    "username": "method",
+    "password": "method",
+    "expiresAt": "2025-12-12",
+    "allowOffline": false
+  },
+  {
+    "id": "54593e9db2021476",
+    "username": "hehe",
+    "password": "hehe",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
+  }
+]
