@@ -1,4 +1,3 @@
-
 [
   {
     "id": "00c9b977ab28b191",
@@ -12,6 +11,13 @@
     "username": "hehe",
     "password": "hehe",
     "expiresAt": "2026-12-12",
+    "allowOffline": false
+  },
+  {
+    "id": "7u77778888",
+    "username": "uj",
+    "password": "uj",
+    "expiresAt": "2026-5-5",
     "allowOffline": false
   }
 ]
